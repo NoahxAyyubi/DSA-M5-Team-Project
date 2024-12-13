@@ -11,3 +11,6 @@
 
 # Ignore log files
 *.log
+
+# Ignore bin directory
+/bin/
