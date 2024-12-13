@@ -1,0 +1,13 @@
+# Ignore .class files inside src
+/src/**/*.class
+
+# Ignore build directories
+/build/
+/out/
+
+# Ignore IDE files
+/.idea/
+/.vscode/
+
+# Ignore log files
+*.log
