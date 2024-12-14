@@ -40,6 +40,6 @@ The test cases for both solutions can be found in the `TestCases.java` file. It 
 
 ## Screenshots
 
-![Screenshot of output](./Screenshot 2024-12-13 at 10.11.54 PM.png)
+![Screenshot of output](./Screenshot.png)
 
 
