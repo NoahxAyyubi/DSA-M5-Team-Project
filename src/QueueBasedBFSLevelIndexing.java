@@ -9,7 +9,7 @@ class TreeNode {
     }
 }
 
-public class QueueBasedBFS {
+public class QueueBasedBFSLevelIndexing {
 
     // Function to perform level order traversal
     public List<List<Integer>> levelOrder(TreeNode root) {
